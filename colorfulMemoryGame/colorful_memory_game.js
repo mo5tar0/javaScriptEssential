@@ -83,4 +83,4 @@ function startGameTimer(timeLeft) {
 }
 
 startbtn.addEventListener('click', startGame);
-console.log ('Colorful Memory Game script loaded successfully.');
+console.log ('Colorful Memory Game .');
