@@ -44,3 +44,4 @@ startTime = new Date().getTime();
                 "<p>Time Elapsed: " + timeElapsed.toFixed(2) + " seconds</p>" +
                 "<p>Words Per Minute (WPM): " + wpm + "</p>";
             }
+console.log ("test1");
