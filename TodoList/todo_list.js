@@ -35,3 +35,4 @@ function addTask() {
 addTaskBtn.addEventListener("click", addTask);
 clearCompletedBtn.addEventListener("click", clearCompletedTasks);
  displayTasks();
+console.log("To-Do List application is running.");  
